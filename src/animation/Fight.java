@@ -5,6 +5,7 @@ public class Fight {
 	String playerName, country, HairStyle;
 	int amount;
 	double price;
+	String LastName;
 	
 	public Fight() {
 		
